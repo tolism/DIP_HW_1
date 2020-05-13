@@ -1,1 +1,3 @@
-# First Assignment  Digital Image Process 8th Semester
+# Histogram Transformations 
+Digital Image Process  : 1st assignment
+8th Semester AUTH
